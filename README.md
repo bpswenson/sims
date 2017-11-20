@@ -1,1 +1,1 @@
-
+ns-3 is a wonderful opensource network simulator with a great community.  If you're interested in network simulation, you should check it out at www.nsnam.org.  This project is more for personal experimentation.  Also I had waf with a passion so I'm using CMake. 
